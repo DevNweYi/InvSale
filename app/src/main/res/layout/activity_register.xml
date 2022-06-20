@@ -27,13 +27,6 @@
             android:imeOptions="actionNext"
             android:layout_marginTop="50dp"/>
 
-        <EditText android:id="@+id/etBusinessName"
-            style="@style/DefaultEditText"
-            android:hint="@string/business_name"
-            android:inputType="text"
-            android:imeOptions="actionNext"
-            android:layout_marginTop="10dp"/>
-
         <EditText android:id="@+id/etPhone"
             style="@style/DefaultEditText"
             android:hint="@string/phone"
